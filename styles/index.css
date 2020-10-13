@@ -1,0 +1,18 @@
+.Section1 {
+  background-image: url(https://www.caribbeangreenliving.com/wp-content/uploads/2013/04/haitian-spaghetti.jpg);
+  background: linear-gradient(white, black);
+}
+
+.Section2 {
+  margin: 40px;
+}
+
+.border {
+  border-style: dotted;
+  border-color: darkseagreen;
+  border-width: thick;
+}
+
+.headerImage {
+  width: 100%;
+}
